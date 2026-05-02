@@ -1,0 +1,17 @@
+{
+    "word": "rat",
+    "meanings": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A medium-sized rodent belonging to the genus Rattus."
+        },
+        {
+            "partOfSpeech": "noun",
+            "definition": "A person who betrays someone; an informer."
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To betray or inform on someone."
+        }
+    ]
+}
