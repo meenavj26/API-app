@@ -1,2 +1,23 @@
-# API-app
-Smart Dictionary App built with Python and Streamlit that lets users search words and view multiple meanings instantly using a dictionary API.
+## Smart Dictionary App
+A simple dictionary web app made with Python and Streamlit.
+
+## Live App
+[Open App Here]()
+
+## Features
+	• Search any English word
+	• Shows multiple meanings
+  
+## Technologies Used
+	• Python
+	• Streamlit
+	• Requests
+	• JSON
+  
+## Files
+	• apiapp.py
+	• output.json
+	• requirements.txt
+  
+## By
+Meenakshi
